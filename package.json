@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "obs-websocket-js": "^4.0.2",
+    "razer-chroma-nodejs": "^1.2.10"
+  }
+}
